@@ -1,0 +1,13 @@
+# ninja log v5
+1	11865	1744122970753968284	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cuda/ROIAlign_cuda.o	d9eb28e53d7cea67
+2	12674	1744122971562952112	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cuda/nms.o	737390a1b227f671
+2	13008	1744122971899945375	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cuda/ROIPool_cuda.o	724dc5748a261aa3
+1	17008	1744122975894865518	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cpu/nms_cpu.o	9179c899766afc7c
+0	17588	1744122976477853865	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cpu/ROIAlign_cpu.o	79981a63d8ecbbf1
+3	22067	1744122980949764479	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/vision.o	d322defe05ded632
+4	11932	1744122993800507650	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cuda/ROIPool_cuda.o	5e4dd7fe4930f087
+4	12022	1744122993890505851	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cuda/nms.o	c34e4fd76d900d7b
+3	12071	1744122993939504872	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cuda/ROIAlign_cuda.o	60180ffab808f17
+2	16867	1744122998735409037	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cpu/ROIAlign_cpu.o	a0989e79b73f13e6
+3	17056	1744122998923405280	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/cpu/nms_cpu.o	b37a04fe04a48252
+5	21516	1744123003378316265	/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/build/temp.linux-x86_64-cpython-37/mnt/data12t/faster-rcnn.pytorch-pytorch-1.0/lib/model/csrc/vision.o	d0631a2c853bc493
