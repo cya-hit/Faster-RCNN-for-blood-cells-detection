@@ -2,6 +2,7 @@
 # Faster-RCNN用于血细胞检测  
 ## 环境：torch 1.9.0+cu111 pip install -r requirements.txt  
 
+在faster-rcnn.pytorch-pytorch-1.0\data\目录下创建pretrained_model文件夹，用于存放resnet101_caffe.pth等预训练模型（这些预训练模型可以在网上下载，我用的resnet101）  
 将虚拟环境的当前目录切换到faster-rcnn\lib\，输入下行指令，进行编译：python setup.py build develop  
 将虚拟环境的当前目录切换到faster-rcnn\，输入下行指令，开始训练：python trainval_net.py --dataset pascal_voc --net res101 --epochs 50 --nw 1 --bs 1 --lr 0.0001 --cuda   
 将虚拟环境的当前目录切换到faster-rcnn\，输入下行指令，开始测试：python test_net.py --dataset pascal_voc --net res101 --checksession 1 --checkepoch 50 --checkpoint 583 --cuda  
